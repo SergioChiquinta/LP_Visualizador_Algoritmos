@@ -5,7 +5,6 @@ import Ord_Burbuja_y_Fibonacci as algos
 
 def probar_fibonacci():
     
-    """Prueba las implementaciones de Fibonacci."""
     print("--- Secuencia de Fibonacci ---")
 
     # Prueba Imperativa
